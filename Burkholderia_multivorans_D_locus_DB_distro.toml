@@ -1,0 +1,18 @@
+name = "Burkholderia_multivorans_D LOCUS"
+keyword = "bmul_d locus"
+genbank = "Burkholderia_multivorans_D_locus_DB_distro.gbk"
+organism = "Burkholderia multivorans"
+taxon = 87883
+antigen = "Outer-core-lipopolysaccharide"
+pathway = ""
+prefix = "D LOCUS"
+version = "0.1.0"
+id_threshold = 90.0
+doi = [ "TBD",]
+owner = "TAMU-CPT"
+repo = "kaptive-bcc-lps"
+branch = "main"
+
+[contact]
+"Andrej Momiroski" = "andrej.momiroski@tamu.edu"
+"Jason Gill" = "jason.gill@tamu.edu"
